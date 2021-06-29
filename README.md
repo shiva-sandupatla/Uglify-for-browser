@@ -3,7 +3,7 @@
 ## CDN
 
 ```js
-<script src="https://cdn.jsdelivr.net/gh/shiva-sandupatla/Uglify-for-browser@latest/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/shiva-sandupatla/Uglify-for-browser@master/index.min.js"></script>
 
 ```
 
